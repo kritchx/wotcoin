@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
+    "register-service-worker": "^1.7.1",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.4.9"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
